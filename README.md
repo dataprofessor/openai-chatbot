@@ -1,4 +1,4 @@
-# 🤖 OpenAI Chatbot
+# 💬🤖 OpenAI Chatbot
 
 A conversational chatbot built in Python using GPT 3.5 (an LLM model from OpenAI) and Streamlit.
 
