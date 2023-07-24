@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤖 OpenAI Chatbot
 
-Description of the app ...
+A conversational chatbot built in Python using GPT 3.5 (an LLM model from OpenAI) and Streamlit.
 
 ## Demo App
 
@@ -15,7 +12,4 @@ This is filler text, please replace this with text for this section.
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+- [Build conversational apps](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
