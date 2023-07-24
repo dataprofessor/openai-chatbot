@@ -6,6 +6,13 @@ A conversational chatbot built in Python using Streamlit and the OpenAI LLM mode
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://openai-chatbot.streamlit.app/)
 
+## Prerequisite libraries
+
+```
+streamlit
+openai
+```
+
 ## Get an OpenAI API key
 
 You can get your own OpenAI API key by following the following instructions:
