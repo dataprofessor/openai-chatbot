@@ -4,7 +4,7 @@ A conversational chatbot built in Python using GPT 3.5 (an LLM model from OpenAI
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://openai-chatbot.streamlit.app/)
 
 ## Get an OpenAI API key
 
