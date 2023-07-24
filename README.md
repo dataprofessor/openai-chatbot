@@ -15,5 +15,5 @@ You can get your own OpenAI API key by following the following instructions:
 
 ## Further Reading
 
-- [Build conversational apps](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
-- [Streamlit Documentation on _Chat elements_](https://docs.streamlit.io/library/api-reference/chat)
+- 🕹️ [Streamlit Documentation Tutorial on _Build conversational apps_](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
+- 📖 [Streamlit Documentation on _Chat elements_](https://docs.streamlit.io/library/api-reference/chat)
