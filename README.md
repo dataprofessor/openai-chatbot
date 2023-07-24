@@ -6,9 +6,12 @@ A conversational chatbot built in Python using GPT 3.5 (an LLM model from OpenAI
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
 
-## Section Heading
+## Get an OpenAI API key
 
-This is filler text, please replace this with text for this section.
+You can get your own OpenAI API key by following the following instructions:
+1. Go to https://platform.openai.com/account/api-keys.
+2. Click on the `+ Create new secret key` button.
+3. Next, enter an identifier name (optional) and click on the `Create secret key` button.
 
 ## Further Reading
 
